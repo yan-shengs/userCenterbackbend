@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # userCenterbackbend
 The production is easy demo for practising the mode of usercenter.This is a demo project designed to imitate the Yupi User Center.
-=======
-# UserCenter-yupi Backbend
+
 
 一个基于 **Spring Boot 3 + MyBatis-Plus + MySQL** 的入门级用户管理中心后端项目，提供：
 
@@ -297,4 +295,3 @@ mvn spring-boot:run
 ## License
 
 学习/练手项目，暂无许可证声明。
->>>>>>> 3fda26f (Production commit)
